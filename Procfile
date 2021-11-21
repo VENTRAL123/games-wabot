@@ -1,2 +1,2 @@
-pekerja npm mulai
-
+worker  npm start
+kami
